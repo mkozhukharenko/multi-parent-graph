@@ -188,5 +188,3 @@ var data = [
 		result: "гусака"
 	},	
 ]
-
-// console.log(data)
