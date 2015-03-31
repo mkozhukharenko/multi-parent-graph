@@ -63,19 +63,3 @@ function HandleClicks (tree, renderer) {
 var treeModel = new TreeModel(data);
 var renderer = new Renderer();
 var handleClicks = HandleClicks(treeModel, renderer);
-
-		// var titleNode = document.createElement('h3');
-		// var titleText = document.createTextNode(title);
-		// titleNode.appendChild(titleText);
-		// root.appendChild(titleNode);
-
-				// var titleNode = document.createElement('h3');
-		// var titleText = document.createTextNode('Без вагань купуйте ' + retulsObj.result + 
-			// ' та тримайте у себе в квартирі');
-		// titleNode.appendChild(titleText);
-		// root.appendChild(titleNode);
-
-
-				// var currentQuestion = treeNodes.filter(function (item) {
-			// return item.id === questionId;
-		// });
